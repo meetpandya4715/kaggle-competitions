@@ -32,22 +32,6 @@ This repository contains my solutions, experiments, and approaches to various Ka
 
 ---
 
-## Repository Structure
-
-```
-kaggle-competitions/
-â”œâ”€â”€ digit-recognizer/
-â”‚   â”œâ”€â”€ data/              # Raw and processed datasets
-â”‚   â”œâ”€â”€ notebooks/         # Jupyter notebooks for EDA and modeling
-â”‚   â””â”€â”€ models/            # Saved model checkpoints
-â”œâ”€â”€ another-competition/
-â”‚   â”œâ”€â”€ scripts/           # Training and evaluation scripts
-â”‚   â””â”€â”€ results/           # Outputs and submission files
-â””â”€â”€ requirements.txt       # Python dependencies
-```
-
----
-
 ## Installation and Usage
 
 To set up the project environment:
