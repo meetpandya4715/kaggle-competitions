@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# model weights
+*.pth
+
+# Ignore VS Code virtual documents (e.g., Jupyter notebooks opened in editor)
+.virtual_documents/
+
+# submissions
+submissions/
